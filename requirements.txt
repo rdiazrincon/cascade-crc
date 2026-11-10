@@ -1,0 +1,11 @@
+# Exact versions used for the paper. scikit-learn must be 1.8.0: gradient-boosted tree fits
+# changed in 1.9, and the results do not reproduce with it.
+scikit-learn==1.8.0
+numpy==2.4.4
+pandas==3.0.2
+scipy==1.17.1
+venn-abers==1.5.4
+joblib==1.6.0
+
+# to run the notebook
+jupyter

@@ -1,0 +1,14 @@
+# Data and results never go in this repository. Clinical results hold one row per patient.
+data/
+results/
+*.csv
+*.csv.gz
+*.json
+
+# notebook and Python artifacts
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+run_*.ipynb
+__pycache__/
+README.md
+
